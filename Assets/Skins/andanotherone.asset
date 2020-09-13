@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e4e62500d72c7f4ab708528d32656c5, type: 3}
+  m_Name: andanotherone
+  m_EditorClassIdentifier: 
+  Name: "\u0420\u043E\u0437\u043E\u0432\u044B\u0439"
+  Texture: {fileID: 2800000, guid: 04707776eef3ebc499809866c8b62c8a, type: 3}
+  RightArm: {fileID: 6127279799179433921, guid: 9abeefd65917c4b419c4e1747663f3a1,
+    type: 3}
+  LeftArm: {fileID: 2704139568579358910, guid: fc86aaadb846359479e18026adce5bb5, type: 3}
+  Color: {r: 0.9433962, g: 0.10234961, b: 0.874753, a: 1}

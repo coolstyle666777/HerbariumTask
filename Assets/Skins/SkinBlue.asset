@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e4e62500d72c7f4ab708528d32656c5, type: 3}
+  m_Name: SkinBlue
+  m_EditorClassIdentifier: 
+  Name: "\u0421\u0438\u043D\u0438\u0439"
+  Texture: {fileID: 2800000, guid: 56cd14cc867c3f247ad4dab4f1e47413, type: 3}
+  RightArm: {fileID: 6127279799179433921, guid: 9abeefd65917c4b419c4e1747663f3a1,
+    type: 3}
+  LeftArm: {fileID: 2704139568579358910, guid: fc86aaadb846359479e18026adce5bb5, type: 3}
+  Color: {r: 0.10679956, g: 0.24508388, b: 0.9056604, a: 1}
